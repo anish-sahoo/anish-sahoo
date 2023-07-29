@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Anish Sahoo
-- 👀 I love programming
+- 👀 I love pro gramming
 ---
 <!---
 anish-sahoo/anish-sahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
