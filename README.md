@@ -3,6 +3,9 @@
 Welcome to my GitHub repository dedicated to all things Computer Science! 
 For any questions, feel free to reach out to me via email or connect on LinkedIn!
 ```
+```
+Also, I know how to quit Vim! -> :qa!
+```
 ---
 <!---
 anish-sahoo/anish-sahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
