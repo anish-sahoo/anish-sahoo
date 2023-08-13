@@ -4,7 +4,7 @@ Welcome to my GitHub repository dedicated to all things Computer Science!
 For any questions, feel free to reach out to me via email or connect on LinkedIn!
 ```
 ```
-Also, I know how to quit Vim! -> :qa!
+Also, I know how to exit Vim! -> :qa!
 ```
 ---
 <!---
