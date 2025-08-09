@@ -16,7 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: "https://wakapi.asahoo.dev/api"
-          TIME_RANGE: "last_30_days"
           LANG_COUNT: 6
           SHOW_TIME: false
           SHOW_TOTAL: false
