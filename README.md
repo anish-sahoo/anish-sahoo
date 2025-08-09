@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Anish Sahoo! 
 
 I'm interested in backend systems, distributed architectures, and data-driven applications.
-You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](asahoo.dev/resume.pdf)
+You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](asahoo.dev/resume.pdf) 
+
 
 ### I'm Currently Working On: *Anime Discovery Engine*
 > Recommendation & personalization system for discovering anime using the two-tower model.
@@ -37,7 +38,6 @@ You can click the Preview link to take a look at your changes.
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
 
 ![most used languages](https://github-readme-stats-anish-sahoo.vercel.app/api/top-langs/?username=anish-sahoo&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334&hide=HLSL,ShaderLab,C%23,Jupyter+Notebook,Objective-C%2B%2B,Ruby,Objective-C,lua)
-
 
 ```
 Also, I know how to exit Vim! -> :qa!
