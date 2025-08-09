@@ -1,30 +1,28 @@
 # 👋 Hi, I'm Anish Sahoo! 
 
-Welcome to my GitHub repository dedicated to all things Computer Science! 
-For any questions, feel free to reach out to me via [E-mail](mailto:sahoo.an@northeastern.edu) or connect on [LinkedIn](https://linkedin.com/in/anish-sahoo)!
+I'm interested in backend systems, distributed architectures, and data-driven applications.
+You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](asahoo.dev/resume.pdf)
 
-### I am currently working on: *Anime Discovery Engine*
->A full-fledged recommendation/personalization system to discover new anime, built on a microservice architecture with Java Spring and Python grpcio services and postgres+elasticsearch. I get the data from myanimelist using a python etl pipeline, and generate embeddings using a HuggingFace minilm model, before pushing the data to elasticsearch. This stack is deployed on my personal server, and is instrumented with Grafana Alloy+Cloud for metrics/traces/logs. I am currently designing the frontend for this application.
+### I'm Currently Working On: *Anime Discovery Engine*
+> Recommendation & personalization system for discovering anime using the two-tower model.
+> - **Stack:** Java Spring Boot, Python grpcio, PostgreSQL, Elasticsearch, React/Tailwind/GraphQL
+> - **Pipeline:** Python ETL from MyAnimeList + HuggingFace MiniLM embeddings → ElasticSearch + Postgres
+> - **Infra:** Self-hosted, Grafana Alloy + Cloud instrumentation, Kibana for Elasticsearch Monitoring
+> - **Status:** Backend ready + deployed, Frontend design in progress
 
 ## Work Github Accounts:
-- Priceline: [github/AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN)
+- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2026)  
 
-## Recent Projects:
-- ***ResumeTex*** - a latex resume generator to ease the latex learning curve ---> `python3, fastapi`
+## Recent Projects  
+- **ResumeTex** — LaTeX resume generator (_Python, FastAPI_)  
+- **OpenLegislation** _(HackHarvard '24 Winner)_ — Accessible US legislation search (_Node.js, React, Mongo Atlas Vector Search_)
+- **KnightsArchersZombiesPPO** — Multi-agent PPO for RL course final project (_Python, PyTorch_)  
+- **sitdownand.study** _(YHack '24 Winner)_ — On-demand leetcode-style CS questions for any topic (_Node.js, React_)  
+- **AI Hoops** — Double DQN for Atari Basketball game (_Python, Farama Gymnasium_)  
+- **easyclassplanner.com** — Smart class scheduling (_Rust, React_)  
+- **X Finance** _(X Developer Challenge 2024)_ — Stock market analysis using tweet sentiment (_Node.js, Grok LLM API, React_)  
 
-- ***OpenLegislation (HackHarvard '24 Open Data Winner)*** - a platform to improve accessibility to legislation that is being considered in the US Congress ---> `Node.js, react, Mongo Atlas Vector Search`
-
-- ***KnightsArchersZombiesPPO*** - An implementation of multi-agent PPO for the final project in grad level (cross-listed) Reinforcement Learning class ---> `(Python3, Pytorch)`
-
-- ***sitdownand.study*** (YHack '24 Best Domain Name Winner) - a platform for leetcode style questions on any cs topic, on demand ---> `Node.js, React`
-
-- ***AI Hoops*** - Double DQN implementation on an Atari Game using a (sort-of) novel approach ---> `python3, Farama Gymnasium`
-
-- ***easyclassplanner.com*** - finding perfect schedules, made easier ---> `rust, react`
-
-- ***X Finance (X Developer Challenge 2024)*** - can we try to learn about the stock market based on tweet sentiment? ---> `node.js, grok llm api, x api, react`
-
-there's more on [my website](https://asahoo.dev/projects)
+More on [asahoo.dev/projects](https://asahoo.dev/projects)  
 
 ---
 <!---
