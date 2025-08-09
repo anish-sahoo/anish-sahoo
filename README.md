@@ -3,6 +3,7 @@
 Welcome to my GitHub repository dedicated to all things Computer Science! 
 For any questions, feel free to reach out to me via [E-mail](mailto:sahoo.an@northeastern.edu) or connect on [LinkedIn](https://linkedin.com/in/anish-sahoo)!
 
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
 
 ### I am currently working on: *Anime Discovery Engine*
 >A full-fledged recommendation/personalization system to discover new anime, built on a microservice architecture with Java Spring and Python grpcio services and postgres+elasticsearch. I get the data from myanimelist using a python etl pipeline, and generate embeddings using a HuggingFace minilm model, before pushing the data to elasticsearch. This stack is deployed on my personal server, and is instrumented with Grafana Alloy+Cloud for metrics/traces/logs. I am currently designing the frontend for this application.
@@ -36,8 +37,6 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-sahoo&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=20&layout=compact)
 --->
-
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
 
 ![most used languages](https://github-readme-stats-anish-sahoo.vercel.app/api/top-langs/?username=anish-sahoo&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334&hide=HLSL,ShaderLab,C%23,Jupyter+Notebook,Objective-C%2B%2B,Ruby,Objective-C,lua)
 
