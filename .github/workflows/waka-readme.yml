@@ -30,9 +30,9 @@ jobs:
           
           git add README.md
           
-          # Only commit if there are changes
           if ! git diff --cached --quiet; then
-            if git log -1 --pretty=%B | grep -q "waka stats"; then
+            LAST_AUTHOR=$(git log -1 --pretty=format:'%an')
+            if [ "$LAST_AUTHOR" = "github-actions[bot]" ]; then
               git commit --amend --no-edit
             else
               git commit -m "chore: update waka stats"
@@ -43,4 +43,5 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
 
