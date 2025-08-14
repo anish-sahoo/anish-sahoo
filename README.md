@@ -40,6 +40,18 @@ You can click the Preview link to take a look at your changes.
 ![most used languages](https://github-readme-stats-anish-sahoo.vercel.app/api/top-langs/?username=anish-sahoo&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334&hide=HLSL,ShaderLab,C%23,Jupyter+Notebook,Objective-C%2B%2B,Ruby,Objective-C,lua)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 August 2025 - To: 13 August 2025
+
+Go                           ██████████▒░░░░░░░░░░░░░░   41.77 %
+JSX                          █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+HTML                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Markdown                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+```
+
 <!--END_SECTION:waka-->
 
 ```
