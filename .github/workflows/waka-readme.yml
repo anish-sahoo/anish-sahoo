@@ -31,17 +31,18 @@ jobs:
           git add README.md
           
           if ! git diff --cached --quiet; then
-            LAST_AUTHOR=$(git log -1 --pretty=format:'%an')
-            if [ "$LAST_AUTHOR" = "github-actions[bot]" ]; then
-              git commit --amend --no-edit
-            else
-              git commit -m "chore: update waka stats"
-            fi
-            
-            git pull --rebase
-            git push --force-with-lease
+              LAST_AUTHOR_EMAIL=$(git log -1 --pretty=format:'%ae')
+              
+              if [ "$LAST_AUTHOR_EMAIL" = "github-actions[bot]@users.noreply.github.com" ]; then
+                  git commit --amend --no-edit
+              else
+                  git commit -m "chore: update waka stats"
+              fi
+          
+              git pull --rebase
+              git push --force-with-lease
           else
-            echo "No changes to commit"
+              echo "No changes to commit"
           fi
 
 
