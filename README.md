@@ -43,10 +43,6 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2025 - To: 13 August 2025
-
-Total Time: 19 hrs 26 mins
-
 Python            5 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
 Go                2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
 JSX               1 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
