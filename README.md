@@ -41,12 +41,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 41 mins   ███████████░░░░░░░░░░░░░░   43.80 %
-JSX          1 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-HTML         0 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-Markdown     0 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-JavaScript   0 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-JSON         0 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Go           3 hrs 31 mins   ████████████▓░░░░░░░░░░░░   50.38 %
+JSX          1 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+HTML         0 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Markdown     0 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+JavaScript   0 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+JSON         0 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
