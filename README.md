@@ -44,12 +44,14 @@ You can click the Preview link to take a look at your changes.
 ```txt
 From: 07 August 2025 - To: 13 August 2025
 
-Go                           ██████████▒░░░░░░░░░░░░░░   41.77 %
-JSX                          █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-HTML                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Markdown                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Total Time: 5 hrs 12 mins
+
+Go           2 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.77 %
+JSX          1 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+HTML         0 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Markdown     0 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+JSON         0 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+JavaScript   0 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
