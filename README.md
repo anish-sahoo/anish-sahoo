@@ -3,8 +3,6 @@
 I'm interested in backend systems, distributed architectures, and data-driven applications.
 You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](asahoo.dev/resume.pdf) 
 
-![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
-
 
 ### I'm Currently Working On: *Anime Discovery Engine*
 > Recommendation & personalization system for discovering anime using the two-tower model.
@@ -54,3 +52,6 @@ JSON         0 hrs 15 mins   ▓░░░░░░░░░░░░░░░░
 ```
 Also, I know how to exit Vim! -> :qa!
 ```
+
+
+![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
