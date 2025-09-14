@@ -39,12 +39,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hrs 7 mins    ███████████▓░░░░░░░░░░░░░   47.18 %
-Python     0 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
-Java       0 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-JAVA       0 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-YAML       0 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JSON       0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Python       3 hrs 23 mins   ████████████████████▓░░░░   82.20 %
+Markdown     0 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JavaScript   0 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON         0 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+TeX          0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+unknown      0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
