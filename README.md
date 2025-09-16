@@ -49,9 +49,9 @@ unknown      0 hrs 1 mins    ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-```
+<!--```
 Also, I know how to exit Vim! -> :qa!
-```
+```-->
 
 
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
