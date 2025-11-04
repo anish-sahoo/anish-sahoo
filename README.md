@@ -12,7 +12,7 @@ You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu
 > - **Status:** Backend ready + deployed, Frontend design in progress
 
 ## Work Github Accounts:
-- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2026)  
+- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2025)  
 
 ## Recent Projects  
 - **ResumeTex** — LaTeX resume generator (_Python, FastAPI_)  
