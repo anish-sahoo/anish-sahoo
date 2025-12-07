@@ -39,12 +39,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.36 %
-Python       1 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-TSX          1 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Markdown     1 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Bash         0 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Terraform    0 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TypeScript        3 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+TSX               3 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+TeX               2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Bash              1 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown          1 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+YAML              0 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
