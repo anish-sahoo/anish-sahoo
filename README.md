@@ -4,22 +4,17 @@ I'm interested in backend systems, distributed architectures, and data-driven ap
 You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](https://asahoo.dev/resume.pdf) 
 
 
-### I'm Currently Working On: *Anime Discovery Engine*
+> ### I'm Currently Working On: *Anime Discovery Engine*
 > Recommendation & personalization system for discovering anime using the two-tower model.
-> - **Stack:** Java Spring Boot, Python grpcio, PostgreSQL, Elasticsearch, React/Tailwind/GraphQL
-> - **Pipeline:** Python ETL from MyAnimeList + HuggingFace MiniLM embeddings → ElasticSearch + Postgres
-> - **Infra:** Self-hosted, Grafana Alloy + Cloud instrumentation, Kibana for Elasticsearch Monitoring
-> - **Status:** Backend ready + deployed, Frontend design in progress
 
 ## Work Github Accounts:
 - [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2025)  
 
 ## Recent Projects  
+- [**GuardConnect**](https://github.com/KhourySpecialProjects/GuardConnect) - Communication & Mentor Matching system for the **Massachusetts National Guard**
 - **ResumeTex** — LaTeX resume generator (_Python, FastAPI_)  
 - **OpenLegislation** _(HackHarvard '24 Winner)_ — Accessible US legislation search (_Node.js, React, Mongo Atlas Vector Search_)
-- **KnightsArchersZombiesPPO** — Multi-agent PPO for RL course final project (_Python, PyTorch_)  
-- **sitdownand.study** _(YHack '24 Winner)_ — On-demand leetcode-style CS questions for any topic (_Node.js, React_)  
-- **AI Hoops** — Double DQN for Atari Basketball game (_Python, Farama Gymnasium_)  
+- **KnightsArchersZombiesPPO** — Multi-agent PPO for RL course final project (_Python, PyTorch_)
 - **easyclassplanner.com** — Smart class scheduling (_Rust, React_)  
 - **X Finance** _(X Developer Challenge 2024)_ — Stock market analysis using tweet sentiment (_Node.js, Grok LLM API, React_)  
 
