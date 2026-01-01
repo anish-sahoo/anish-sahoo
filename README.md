@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anish Sahoo! 
 
-I'm interested in backend systems, distributed architectures, and data-driven applications.
+I'm interested in backend systems, distributed architectures, ai/ml pipelines, and data-driven applications.
 You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](https://asahoo.dev/resume.pdf) 
 
 
