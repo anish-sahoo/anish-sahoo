@@ -34,9 +34,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 hrs 19 mins   █████████████████████████   99.66 %
-JSON     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Bash     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   0 hrs 17 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
