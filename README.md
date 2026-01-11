@@ -34,7 +34,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 hrs 17 mins   █████████████████████████   100.00 %
+TSX          2 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.11 %
+TypeScript   0 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+JSON         0 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+YAML         0 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+TeX          0 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Python       0 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
