@@ -34,12 +34,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 15 mins   ███████████████░░░░░░░░░░   60.19 %
-TeX          1 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.26 %
-Makefile     0 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JSON         0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-unknown      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go           1 hrs 36 mins   █████████████████▒░░░░░░░   69.53 %
+TeX          0 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Makefile     0 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Bash         0 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+TypeScript   0 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+SQL          0 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
