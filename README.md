@@ -8,7 +8,8 @@ You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu
 > Recommendation & personalization system for discovering anime using the two-tower model.
 
 ## Work Github Accounts:
-- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2025)  
+- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2025)
+- MasterControl - private Github Enterprise Account (January - June 2026)
 
 ## Recent Projects  
 - [**GuardConnect**](https://github.com/KhourySpecialProjects/GuardConnect) - Communication & Mentor Matching system for the **Massachusetts National Guard**
@@ -46,7 +47,6 @@ SQL          0 hrs 4 mins    ▓░░░░░░░░░░░░░░░░
 
 <!--```
 Also, I know how to exit Vim! -> :qa!
-```-->
-
 
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anish-sahoo&theme=react)
+```-->
