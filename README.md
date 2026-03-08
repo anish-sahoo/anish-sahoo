@@ -35,12 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hrs 17 mins         ███████████▒░░░░░░░░░░░░░   44.99 %
-Bash       0 hrs 47 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
-TeX        0 hrs 16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-YAML       0 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Markdown   0 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-SQL        0 hrs 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
