@@ -35,7 +35,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   0 hrs 5 mins          █████████████████████████   100.00 %
+TeX        2 hrs 18 mins         ███████████████▒░░░░░░░░░   61.25 %
+Go         1 hrs 22 mins         █████████░░░░░░░░░░░░░░░░   36.11 %
+TSX        0 hrs 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Markdown   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+unknown    0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
