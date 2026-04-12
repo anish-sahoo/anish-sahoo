@@ -35,12 +35,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-TSX          2 hrs 52 mins         ███████████▒░░░░░░░░░░░░░   45.14 %
-JSON         1 hrs 6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Markdown     0 hrs 56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Go           0 hrs 34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-unknown      0 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Bash         0 hrs 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown     0 hrs 54 mins         ████████░░░░░░░░░░░░░░░░░   32.17 %
+Bash         0 hrs 52 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+unknown      0 hrs 26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+TSX          0 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JSON         0 hrs 11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+TeX          0 hrs 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
