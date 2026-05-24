@@ -35,12 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        1 hrs 23 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
-TypeScript   1 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-unknown      0 hrs 56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-JSON         0 hrs 37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-CSS          0 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Markdown     0 hrs 20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
