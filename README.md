@@ -3,24 +3,6 @@
 I'm interested in backend systems, distributed architectures, ai/ml pipelines, and data-driven applications.
 You can reach me at [sahoo.an@northeastern.edu](mailto:sahoo.an@northeastern.edu) and [in/anish-sahoo](https://linkedin.com/in/anish-sahoo). My latest resume is at [asahoo.dev/resume.pdf](https://asahoo.dev/resume.pdf) 
 
-
-> ### I'm Currently Working On: *Anime Discovery Engine*
-> Recommendation & personalization system for discovering anime using the two-tower model.
-
-## Work Github Accounts:
-- [AnishSahoo-PCLN](https://github.com/AnishSahoo-PCLN) (Priceline, January - June 2025)
-- MasterControl - private Github Enterprise Account (January - June 2026)
-
-## Recent Projects  
-- [**GuardConnect**](https://github.com/KhourySpecialProjects/GuardConnect) - Communication & Mentor Matching system for the **Massachusetts National Guard**
-- **ResumeTex** — LaTeX resume generator (_Python, FastAPI_)  
-- **OpenLegislation** _(HackHarvard '24 Winner)_ — Accessible US legislation search (_Node.js, React, Mongo Atlas Vector Search_)
-- **KnightsArchersZombiesPPO** — Multi-agent PPO for RL course final project (_Python, PyTorch_)
-- **easyclassplanner.com** — Smart class scheduling (_Rust, React_)  
-- **X Finance** _(X Developer Challenge 2024)_ — Stock market analysis using tweet sentiment (_Node.js, Grok LLM API, React_)  
-
-More on [asahoo.dev/projects](https://asahoo.dev/projects)  
-
 ---
 <!---
 anish-sahoo/anish-sahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
